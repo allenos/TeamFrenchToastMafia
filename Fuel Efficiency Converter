@@ -38,6 +38,6 @@ Public Class frmfuelefficiencyconverter
         'output the results back to the form
         txtkpl.Text = decKPL.ToString
 
-        'This code was borrowed from Professor Benton's "The Programming Process" Video
+        'This code was attained from Professor Benton's "The Programming Process" Video
     End Sub
 End Class
